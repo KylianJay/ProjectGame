@@ -20,7 +20,6 @@
     {"id":{"name":"sndAmoogusSound","path":"sounds/sndAmoogusSound/sndAmoogusSound.yy",},"order":0,},
     {"id":{"name":"objGround","path":"objects/objGround/objGround.yy",},"order":3,},
     {"id":{"name":"objPlayerOne","path":"objects/objPlayerOne/objPlayerOne.yy",},"order":0,},
-    {"id":{"name":"ass","path":"objects/ass/ass.yy",},"order":7,},
     {"id":{"name":"objAccessPoint","path":"objects/objAccessPoint/objAccessPoint.yy",},"order":2,},
     {"id":{"name":"playerOneRun","path":"sprites/playerOneRun/playerOneRun.yy",},"order":2,},
     {"id":{"name":"functions","path":"scripts/functions/functions.yy",},"order":0,},
@@ -86,7 +85,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.6.595",
+    "IDEVersion": "2.3.7.603",
   },
   "resourceVersion": "1.4",
   "name": "Game",
