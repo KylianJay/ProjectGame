@@ -46,7 +46,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "jimmyroom",
+  "name": "roomMenu",
   "tags": [],
   "resourceType": "GMRoom",
 }
