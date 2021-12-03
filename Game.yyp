@@ -5,6 +5,7 @@
     {"id":{"name":"sprCollision","path":"sprites/sprCollision/sprCollision.yy",},"order":0,},
     {"id":{"name":"sprAccessPoint","path":"sprites/sprAccessPoint/sprAccessPoint.yy",},"order":4,},
     {"id":{"name":"playerOneIdle","path":"sprites/playerOneIdle/playerOneIdle.yy",},"order":1,},
+    {"id":{"name":"bowlingBal","path":"objects/bowlingBal/bowlingBal.yy",},"order":5,},
     {"id":{"name":"gunPlayer","path":"sprites/gunPlayer/gunPlayer.yy",},"order":2,},
     {"id":{"name":"tileAutotile","path":"tilesets/tileAutotile/tileAutotile.yy",},"order":0,},
     {"id":{"name":"objBossHealthBar","path":"objects/objBossHealthBar/objBossHealthBar.yy",},"order":0,},
@@ -83,7 +84,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.603",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "Game",
