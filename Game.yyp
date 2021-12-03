@@ -10,6 +10,7 @@
     {"id":{"name":"tileAutotile","path":"tilesets/tileAutotile/tileAutotile.yy",},"order":0,},
     {"id":{"name":"objBossHealthBar","path":"objects/objBossHealthBar/objBossHealthBar.yy",},"order":0,},
     {"id":{"name":"sndHitSound","path":"sounds/sndHitSound/sndHitSound.yy",},"order":1,},
+    {"id":{"name":"Object12","path":"objects/Object12/Object12.yy",},"order":7,},
     {"id":{"name":"objPlayerHealthBar","path":"objects/objPlayerHealthBar/objPlayerHealthBar.yy",},"order":1,},
     {"id":{"name":"sprAutotile","path":"sprites/sprAutotile/sprAutotile.yy",},"order":0,},
     {"id":{"name":"sprBossHealthBar","path":"sprites/sprBossHealthBar/sprBossHealthBar.yy",},"order":0,},
@@ -85,7 +86,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.6.595",
+    "IDEVersion": "2.3.7.603",
   },
   "resourceVersion": "1.4",
   "name": "Game",
