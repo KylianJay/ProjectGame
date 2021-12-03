@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"squidFont","path":"fonts/squidFont/squidFont.yy",},"order":0,},
     {"id":{"name":"objPlayerOneDie","path":"objects/objPlayerOneDie/objPlayerOneDie.yy",},"order":1,},
+    {"id":{"name":"jimmyroom","path":"rooms/jimmyroom/jimmyroom.yy",},"order":1,},
     {"id":{"name":"sprCollision","path":"sprites/sprCollision/sprCollision.yy",},"order":0,},
     {"id":{"name":"sprAccessPoint","path":"sprites/sprAccessPoint/sprAccessPoint.yy",},"order":4,},
     {"id":{"name":"playerOneIdle","path":"sprites/playerOneIdle/playerOneIdle.yy",},"order":1,},
@@ -49,6 +50,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"roomId":{"name":"jimmyroom","path":"rooms/jimmyroom/jimmyroom.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
