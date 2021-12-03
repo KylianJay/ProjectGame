@@ -7,3 +7,6 @@ speed_ = 2;
 health_ = 1;
 image_speed = .9;
 image_index = 0;
+lastKnownPos = false;
+dirx_ = 0;
+diry_ = 0;
