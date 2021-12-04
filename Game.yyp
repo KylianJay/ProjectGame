@@ -47,6 +47,7 @@
     {"id":{"name":"pointHack","path":"sprites/pointHack/pointHack.yy",},"order":3,},
     {"id":{"name":"objBot","path":"objects/objBot/objBot.yy",},"order":1,},
     {"id":{"name":"objGameName","path":"objects/objGameName/objGameName.yy",},"order":4,},
+    {"id":{"name":"newTextBox","path":"scripts/newTextBox/newTextBox.yy",},"order":4,},
     {"id":{"name":"roomLoading","path":"rooms/roomLoading/roomLoading.yy",},"order":4,},
     {"id":{"name":"objGunBullet1Enemy","path":"objects/objGunBullet1Enemy/objGunBullet1Enemy.yy",},"order":4,},
     {"id":{"name":"objGunBullet","path":"objects/objGunBullet/objGunBullet.yy",},"order":0,},

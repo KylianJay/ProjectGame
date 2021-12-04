@@ -19,7 +19,7 @@ IDLE_ = 3;
 
 state_ = MOVEMENT_
 image_alpha_ = 1;
-
+lastState = state_;
 
 
 //Map Keys
