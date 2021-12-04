@@ -16,6 +16,7 @@ MOVEMENT_ = 0;
 HIT_ = 1;
 DIE_ = 2;
 IDLE_ = 3;
+PlayerStateLocked = 4;
 
 state_ = MOVEMENT_
 image_alpha_ = 1;

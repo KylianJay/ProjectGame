@@ -215,6 +215,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"objBot","path":"objects/objBot/objBot.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":1760.0,"resourceVersion":"1.0","name":"inst_2C4F6B27","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objBot","path":"objects/objBot/objBot.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":1728.0,"resourceVersion":"1.0","name":"inst_70DED507","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objBot","path":"objects/objBot/objBot.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":1856.0,"resourceVersion":"1.0","name":"inst_1CCE9070","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objGame","path":"objects/objGame/objGame.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":870.0,"y":164.0,"resourceVersion":"1.0","name":"inst_BF1F1C2","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"EnemyInstances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"objPlayerOne","path":"objects/objPlayerOne/objPlayerOne.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":2.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":160.0,"resourceVersion":"1.0","name":"instPlayerOne","tags":[],"resourceType":"GMRInstance",},
@@ -296,6 +297,7 @@
     {"name":"inst_266B552","path":"rooms/roomL1/roomL1.yy",},
     {"name":"inst_71E84AEA","path":"rooms/roomL1/roomL1.yy",},
     {"name":"inst_41D80702","path":"rooms/roomL1/roomL1.yy",},
+    {"name":"inst_BF1F1C2","path":"rooms/roomL1/roomL1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
