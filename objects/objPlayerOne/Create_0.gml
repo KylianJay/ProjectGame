@@ -9,6 +9,8 @@ image_speed = 2;
 max_health = 10;
 health_ = max_health;
 score_ = 0;
+responses = ["Test Response", "Test Response Two"]
+responseSelected = 0;	
 
 MOVEMENT_ = 0;
 HIT_ = 1;
@@ -17,7 +19,7 @@ IDLE_ = 3;
 
 state_ = MOVEMENT_
 image_alpha_ = 1;
-image_index_ = image_index;
+
 
 
 //Map Keys
