@@ -4,7 +4,7 @@ var flipped = (mouse_x > x)*2-1;
 var dir = point_direction(x, y, mouse_x, mouse_y);
 var gun_x = x-4*flipped;
 
-draw_text(0, 1200, score_)
+draw_text(10, 10, score_);
 
 draw_sprite_ext(playerOneRun, image_index, x, y, flipped, yscale_, 0, image_blend, image_alpha_);
 
