@@ -41,10 +41,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objBoss","path":"objects/objBoss/objBoss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":14,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [
-    {"varType":0,"value":"NewTextBox","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"entityActivateScript","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":0,"value":"[\"Hello There!\", 1, \"Response A\", \"Response B\"]","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"entityActivateArgs","tags":[],"resourceType":"GMObjectProperty",},
-  ],
+  "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "Characters",

@@ -3,6 +3,7 @@
 instance_destroy(other);
 health_ -= 1;
 objPlayerOne.score_ += 5
+objPlayerOne.enemiesKilled += 1;
 
 if health_ <= 0 {
 	image_index = 0;
