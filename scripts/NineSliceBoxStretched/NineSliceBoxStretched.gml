@@ -14,6 +14,7 @@ function NineSliceBoxStretched(){
 	var _index = argument5;
 	var _w = _x2 - _x1;
 	var _h = _y2 - _y1;
+	
 
 	// MIDDLE
 	draw_sprite_part_ext(argument0, _index, _size, _size, 1, 1, _x1+_size, _y1+_size, _w-(_size*2), _h-(_size*2), c_white, 1);
