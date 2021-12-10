@@ -3,7 +3,6 @@
     {"id":{"name":"sndShootGun","path":"sounds/sndShootGun/sndShootGun.yy",},"order":3,},
     {"id":{"name":"squidFont","path":"fonts/squidFont/squidFont.yy",},"order":0,},
     {"id":{"name":"objPlayerOneDie","path":"objects/objPlayerOneDie/objPlayerOneDie.yy",},"order":1,},
-    {"id":{"name":"roomL2","path":"rooms/roomL2/roomL2.yy",},"order":1,},
     {"id":{"name":"sprCollision","path":"sprites/sprCollision/sprCollision.yy",},"order":0,},
     {"id":{"name":"sprAccessPoint","path":"sprites/sprAccessPoint/sprAccessPoint.yy",},"order":4,},
     {"id":{"name":"playerOneIdle","path":"sprites/playerOneIdle/playerOneIdle.yy",},"order":1,},
@@ -49,6 +48,7 @@
     {"id":{"name":"pointHack","path":"sprites/pointHack/pointHack.yy",},"order":3,},
     {"id":{"name":"objBot","path":"objects/objBot/objBot.yy",},"order":1,},
     {"id":{"name":"objGameName","path":"objects/objGameName/objGameName.yy",},"order":4,},
+    {"id":{"name":"roomL2J","path":"rooms/roomL2J/roomL2J.yy",},"order":5,},
     {"id":{"name":"newTextBox","path":"scripts/newTextBox/newTextBox.yy",},"order":4,},
     {"id":{"name":"roomLoading","path":"rooms/roomLoading/roomLoading.yy",},"order":4,},
     {"id":{"name":"objGunBullet1Enemy","path":"objects/objGunBullet1Enemy/objGunBullet1Enemy.yy",},"order":4,},
@@ -77,9 +77,9 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"roomMenu","path":"rooms/roomMenu/roomMenu.yy",},},
     {"roomId":{"name":"roomL1","path":"rooms/roomL1/roomL1.yy",},},
-    {"roomId":{"name":"roomL2","path":"rooms/roomL2/roomL2.yy",},},
     {"roomId":{"name":"roomL3","path":"rooms/roomL3/roomL3.yy",},},
     {"roomId":{"name":"roomLoading","path":"rooms/roomLoading/roomLoading.yy",},},
+    {"roomId":{"name":"roomL2J","path":"rooms/roomL2J/roomL2J.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
