@@ -43,7 +43,7 @@
   ],
   "properties": [
     {"varType":0,"value":"NewTextBox","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"entityActivateScript","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":0,"value":"[\"Hello There!\",1, [\"1:Response A\", \"2:Response B\"]]","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"entityActivateArgs","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":0,"value":"[\"Hello There!\", 1, \"Response A\", \"Response B\"]","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"entityActivateArgs","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [],
   "parent": {
