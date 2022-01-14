@@ -11,7 +11,7 @@ health_ = max_health;
 enemiesKilled = 0;
 enemiesBossKilled = 0;
 score_ = 0;
-currentRoom = roomL1;
+currentRoom = 1;
 responses = ["Test Response", "Test Response Two"]
 responseSelected = 0;	
 

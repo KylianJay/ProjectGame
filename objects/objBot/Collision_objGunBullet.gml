@@ -6,7 +6,7 @@ objPlayerOne.score_ += 5
 objPlayerOne.enemiesKilled += 1;
 
 if health_ <= 0 {
-	if currentRoom = roomL1 {
+	if objPlayerOne.currentRoom = 1 {
 		instance_create_layer(other.x, other.y, "EnemyInstances", objBotDeath);
 		instance_destroy();
 	} else {
